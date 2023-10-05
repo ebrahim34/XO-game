@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1696501466 source:c:\users\computer market\onedrive\desktop\xo game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1696501739 source:c:\users\computer market\onedrive\desktop\xo game\function.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
